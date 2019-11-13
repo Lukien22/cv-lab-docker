@@ -1,6 +1,6 @@
 # 1. Learn and Do: Docker primer
 #### A "Learn and do" for people exploring Docker containers for the very first time 
-###### Cisco Italy Multicloud Users Meetup
+###### CV LAB
 <hr>
 
 #### Introduction
@@ -368,7 +368,7 @@ The Ubuntu virtual machine you are working on, has been pre-configured to forwar
 
 Connect to http://localhost:8180:
 
-![NGINX Landing Page](https://raw.githubusercontent.com/rtortori/ld-dockerprimer/master/images/ss1.png)
+![NGINX Landing Page](https://raw.githubusercontent.com/Lukiep/ld-dockerprimer/master/images/ss1.png)
 
 Great. Now let's understand a bit more about how things are working in the background.
 
