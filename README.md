@@ -368,7 +368,7 @@ The Ubuntu virtual machine you are working on, has been pre-configured to forwar
 
 Connect to http://localhost:8180:
 
-![NGINX Landing Page](https://raw.githubusercontent.com/Lukiep/ld-dockerprimer/master/images/ss1.png)
+![NGINX Landing Page](https://raw.githubusercontent.com/Lukiep/cv-lab-docker/master/images/ss1.png)
 
 Great. Now let's understand a bit more about how things are working in the background.
 
